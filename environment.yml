@@ -2,6 +2,7 @@ name: base
 channels:
   - plotly
   - conda-forge
+  - pupi
 dependencies:
   - numpy
   - pandas
