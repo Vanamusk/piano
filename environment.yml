@@ -2,10 +2,11 @@ name: base
 channels:
   - plotly
   - conda-forge
-  - steven_c
+  - adam
 dependencies:
   - numpy
   - pandas
   - plotly
   - xlrd
+  - pycrypto
   - simple-crypt
