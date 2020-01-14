@@ -9,4 +9,4 @@ dependencies:
   - xlrd
   - pycrypto
   - more-itertools
-  - os
+  - path.py
